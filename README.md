@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add kompose https://github.com/virtualstaticvoid/asdf-kompose.git
+asdf install kompose latest
 ```
 
 ## Use
