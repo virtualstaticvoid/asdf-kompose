@@ -1,6 +1,6 @@
 # asdf-kompose
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-kompose/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-kompose/actions)
+[![Main Workflow](https://github.com/virtualstaticvoid/asdf-kompose/actions/workflows/workflow.yml/badge.svg)](https://github.com/virtualstaticvoid/asdf-kompose/actions/workflows/workflow.yml)
 
 [`kompose`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager.
 
